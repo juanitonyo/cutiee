@@ -60,8 +60,8 @@ const app = createApp({
         { 
           title: 'Ang clingy! Kalalaking tao >:(', 
           date: '02/02/2026', 
-          lat: 14.6461359, 
-          lng: 121.0583708,
+          lat: 14.5506676, 
+          lng: 121.0487263,
           images: ['images/bday pero aamin/bgcdate1.jpg','images/bday pero aamin/bgcdate2.jpg','images/bday pero aamin/bgcdate3.jpg'],
           description: 'HAHAHAHHAA AYAW UMUWI?!?!?!'
         },
